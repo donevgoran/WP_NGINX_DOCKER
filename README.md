@@ -1,4 +1,4 @@
-*Docker with nginx, mysql and wordpress*
+<b>*Docker with nginx, mysql and wordpress*</b>
 
 I use the centos image for installation of NGINX and PHP, and default mysql image for DB.
 
